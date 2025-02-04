@@ -1,0 +1,13 @@
+version: '3'
+
+services:
+  etl-simple-airflow:
+    image: etlairflow:latest
+    volumes:
+      - ./airflow:/opt/airflow
+    ports:
+      - "8080:8080"
+    command: airflow standalone
+  etl-simple-smtp:
+    image: bytemark/smtp
+    restart: always
