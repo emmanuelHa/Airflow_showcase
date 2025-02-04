@@ -31,4 +31,5 @@ Enter admin/the generated password from the logs
 ## Notes:
 The metadata database was not changed. It is SQLite. 
 It is only for dev purpose!
+Don't forget to compose down once done.
 
