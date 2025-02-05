@@ -15,7 +15,9 @@ In this project, you will go through some concepts:
 
 
 ## Technology Used
-Airflow without astronomer
+- Airflow without astronomer
+- Python scripts
+- docker compose
 
 ## How to test ?
 - To run those examples you will need a docker engine like Docker Desktop to run docker containers through docker compose.
