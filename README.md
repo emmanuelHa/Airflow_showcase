@@ -35,3 +35,9 @@ The metadata database was not changed. It is SQLite.
 It is only for dev purpose!
 Don't forget to compose down once done.
 
+## Examples:
+
+![alt text](<./docs/branching.png>) 
+![alt text](<./docs/producer_dataset.png>) 
+![alt text](<./docs/consumer_dataset.png>) 
+![alt text](<./docs/setup_teardown.png>)
